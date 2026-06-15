@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/shaine/inverse-dot.git"
+  },
+  "homepage": "https://www.npmjs.com/package/inverse-dot",
+  "bugs": {
+    "url": "https://github.com/shaine/inverse-dot/issues"
   }
 }
